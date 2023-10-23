@@ -11,7 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+<!-- LinkedIn -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/anubhavtekriwal
 
 <a href="https://www.codechef.com/users/a9ubhav" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F554646510333611675%2F&psig=AOvVaw12RbBBl3feI3xxyPGziuMB&ust=1698130443515000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDxyYDLi4IDFQAAAAAdAAAAABAE" alt="a9ubhav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/A9ubhav" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AHackerRank_Icon-1000px.png&psig=AOvVaw0na0yy6i_nFCaKyfk8Qmr4&ust=1698130542696000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDH9q_Li4IDFQAAAAAdAAAAABAE" alt="A9ubhav" height="30" width="40" /></a>
@@ -21,6 +23,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhav099&show_icons=true&locale=en&layout=compact" alt="Anubhav099" /></p>
-<!-- LinkedIn -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/anubhavtekriwal
